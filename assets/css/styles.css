@@ -42,6 +42,19 @@ textarea {
     margin-right: auto;
 }
 
+/* Home */
+.home {
+    padding: 50px 0;
+}
+
+.home a {
+    display: inline-block;
+    min-width: 270px;
+    margin: 2px 0;
+    padding: 10px;
+    background: #e0eae5;
+}
+
 /* Navbar */
 
 .header {
